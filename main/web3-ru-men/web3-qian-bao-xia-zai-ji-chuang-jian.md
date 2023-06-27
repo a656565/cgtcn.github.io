@@ -23,7 +23,7 @@ OKX：[https://static.eouaupg.cn/upgradeapp/okx-android.apk](https://static.eoua
 
 
 请再次注意：虽然web3和Crypto市场紧密相关，社区并不鼓励社区玩家参与Crypto市场交易行为，请牢记Crypto市场是高风险的，可能使你面临巨额亏损。
-{% endhint %}
+
 
 ## WEB3钱包创建
 
