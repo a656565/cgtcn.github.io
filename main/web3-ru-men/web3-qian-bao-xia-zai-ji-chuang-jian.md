@@ -21,7 +21,7 @@ OKX：[https://static.eouaupg.cn/upgradeapp/okx-android.apk](https://static.eoua
 方式一：自己注册（安全性高）\
 方式二：淘宝购买（方便快捷）
 
-{% hint style="info" %}
+{% style="info" %}
 请再次注意：虽然web3和Crypto市场紧密相关，社区并不鼓励社区玩家参与Crypto市场交易行为，请牢记Crypto市场是高风险的，可能使你面临巨额亏损。
 {% endhint %}
 
